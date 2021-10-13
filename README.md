@@ -1,4 +1,4 @@
-Coursera's Getting & Cleaning Data Project
+Getting & Cleaning Data Project
 =====================================
 https://www.coursera.org/course/getdata
 
